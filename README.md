@@ -20,6 +20,7 @@ pyhton leetcode problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +51,9 @@ pyhton leetcode problem
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
