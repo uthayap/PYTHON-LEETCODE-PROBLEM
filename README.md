@@ -49,6 +49,7 @@ pyhton leetcode problem
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +80,8 @@ pyhton leetcode problem
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uthayap/PYTHON-LEETCODE-PROBLEM/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
